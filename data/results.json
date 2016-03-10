@@ -1,0 +1,30 @@
+{
+  "12+15": {
+    "declarant1": {
+      "nom": "Martin",
+      "nomNaissance": "Martin",
+      "prenoms": "Pierre",
+      "dob": "22/03/1985"
+    },
+    "declarant2": {
+      "nom": "Martin",
+      "nomNaissance": "Honore",
+      "prenoms": "Marie",
+      "dob": "03/04/1986"
+    },
+    "adress": {
+      "ligne1": "12 rue Balzac",
+      "ligne2": "75008 Paris"
+    },
+    "dateRecouvrement": "10/10/2015",
+    "dateEtablissement": "08/07/2015",
+    "nombreParts": "2.00",
+    "situationFamiliale": "Marié",
+    "nombreDePersonneACharge": "2",
+    "revenuBrutGlobal": "29&nbsp;880 €",
+    "revenuImposable": "29&nbsp;880 €",
+    "impotsNetAvantCorrections": "2&nbsp;165 €",
+    "impots": "2&nbsp;165 €",
+    "revenuFiscalReference": "29&nbsp;880 €"
+  }
+}
