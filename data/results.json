@@ -31,28 +31,28 @@
     "declarant1": {
       "nom": "Badul",
       "nomNaissance": "Badul",
-      "prenoms": "FLORENT",
-      "dob": "12/10/1980"
+      "prenoms": "Florent",
+      "dob": "10/12/1980"
     },
     "declarant2": {
       "nom": "Baude",
       "nomNaissance": "Baude",
-      "prenoms": "MARLENE",
-      "dob": "12/10/1981"
+      "prenoms": "Marelene",
+      "dob": "10/12/1981"
     },
     "adress": {
-      "ligne1": "QUAI JOSEPH GILLET",
+      "ligne1": "12 QUAI JOSEPH GILLET",
       "ligne2": "69004 LYON"
     },
-    "dateRecouvrement": "07/08/2015",
+    "dateRecouvrement": "08/07/2015",
     "dateEtablissement": "10/10/2015",
-    "nombreParts": "1.00",
+    "nombreParts": "2.50",
     "situationFamiliale": "Marié(e)s",
     "nombreDePersonneACharge": "1",
     "revenuBrutGlobal": "32&nbsp;698 €",
     "revenuImposable": "32&nbsp;698 €",
-    "impotsNetAvantCorrections": "2&nbsp;2230 €",
-    "impots": "2&nbsp;2230 €",
+    "impotsNetAvantCorrections": "2&nbsp;230 €",
+    "impots": "2&nbsp;230 €",
     "revenuFiscalReference": "32&nbsp;698 €"
   },
   "1572456789521+1522456789521": {
@@ -69,19 +69,19 @@
       "dob": ""
     },
     "adress": {
-      "ligne1": "RUE LITTRE",
+      "ligne1": "12 RUE LITTRE",
       "ligne2": "69009 LYON"
     },
     "dateRecouvrement": "07/09/2015",
     "dateEtablissement": "10/11/2015",
-    "nombreParts": "2.00",
+    "nombreParts": "2.50",
     "situationFamiliale": "Divorcé(e)",
     "nombreDePersonneACharge": "2",
-    "revenuBrutGlobal": "43&nbsp;593 €",
-    "revenuImposable": "43&nbsp;593 €",
+    "revenuBrutGlobal": "43&nbsp;596 €",
+    "revenuImposable": "43&nbsp;596 €",
     "impotsNetAvantCorrections": "3&nbsp;425 €",
     "impots": "3&nbsp;425 €",
-    "revenuFiscalReference": "43&nbsp;593 €"
+    "revenuFiscalReference": "43&nbsp;596 €"
   },
   "1582456789521+1532456789521": {
     "declarant1": {
@@ -97,12 +97,12 @@
       "dob": "12/12/1981"
     },
     "adress": {
-      "ligne1": "RUE IMBERT COLOMES",
+      "ligne1": "12 RUE IMBERT COLOMES",
       "ligne2": "69001 LYON"
     },
     "dateRecouvrement": "07/10/2015",
     "dateEtablissement": "10/12/2015",
-    "nombreParts": "3.00",
+    "nombreParts": "4.00",
     "situationFamiliale": "Marié(e)s",
     "nombreDePersonneACharge": "3",
     "revenuBrutGlobal": "15&nbsp;682 €",
@@ -125,7 +125,7 @@
       "dob": ""
     },
     "adress": {
-      "ligne1": "RUE LOUIS THEVENET",
+      "ligne1": "12 RUE LOUIS THEVENET",
       "ligne2": "69004 LYON"
     },
     "dateRecouvrement": "10/10/2015",
@@ -147,20 +147,20 @@
       "dob": "22/03/1985"
     },
     "declarant2": {
-      "nom": "",
-      "nomNaissance": "",
-      "prenoms": "",
+      "nom": "Marin",
+      "nomNaissance": "Marin",
+      "prenoms": "Agathe",
       "dob": ""
     },
     "adress": {
-      "ligne1": "36 RUE ANTOINE LUMIERE",
+      "ligne1": "42 RUE ANTOINE LUMIERE",
       "ligne2": "69008 LYON"
     },
-    "dateRecouvrement": "07/11/2015",
-    "dateEtablissement": "12/12/2015",
-    "nombreParts": "4.00",
-    "situationFamiliale": "Divorcé(e)",
-    "nombreDePersonneACharge": "4",
+    "dateRecouvrement": "31/07/2015",
+    "dateEtablissement": "15/07/2015",
+    "nombreParts": "3.00",
+    "situationFamiliale": "Marié(e)s",
+    "nombreDePersonneACharge": "2",
     "revenuBrutGlobal": "72&nbsp;859 €",
     "revenuImposable": "72&nbsp;859  €",
     "impotsNetAvantCorrections": "7&nbsp;564 €",
@@ -169,65 +169,9 @@
   },
   "1582453557825+1569021358783": {
     "declarant1": {
-      "nom": "BOURRAT",
-      "nomNaissance": "BOURRAT",
+      "nom": "DJORN",
+      "nomNaissance": "DJORN",
       "prenoms": "ROMAIN",
-      "dob": "08/14/1964"
-    },
-    "declarant2": {
-      "nom": "",
-      "nomNaissance": "",
-      "prenoms": "",
-      "dob": ""
-    },
-    "adress": {
-      "ligne1": "12 cours lafayette",
-      "ligne2": "69003 lyon"
-    },
-    "dateRecouvrement": "24/07/2015",
-    "dateEtablissement": "16/08/2015",
-    "nombreParts": "1.00",
-    "situationFamiliale": "Célibataire",
-    "nombreDePersonneACharge": "0",
-    "revenuBrutGlobal": "9&nbsp;455 €",
-    "revenuImposable": "9&nbsp;455 €",
-    "impotsNetAvantCorrections": "0 €",
-    "impots": "0 €",
-    "revenuFiscalReference": "9&nbsp;455 €"
-  },
-  "1566453667825+1569095453648": {
-    "declarant1": {
-      "nom": "ARBRUN",
-      "nomNaissance": "ARBRUN",
-      "prenoms": "CHARLINE",
-      "dob": "01/22/1982"
-    },
-    "declarant2": {
-      "nom": "",
-      "nomNaissance": "",
-      "prenoms": "",
-      "dob": ""
-    },
-    "adress": {
-      "ligne1": "12 cours lafayette",
-      "ligne2": "69003 lyon"
-    },
-    "dateRecouvrement": "07/24/2015",
-    "dateEtablissement": "07/16/2015",
-    "nombreParts": "1.50",
-    "situationFamiliale": "Célibataire",
-    "nombreDePersonneACharge": "1",
-    "revenuBrutGlobal": "20&nbsp;231 €",
-    "revenuImposable": "20&nbsp;231 €",
-    "impotsNetAvantCorrections": "876 €",
-    "impots": "459 €",
-    "revenuFiscalReference": "20&nbsp;231 €"
-  },
-  "1593453567825+1569078912687": {
-    "declarant1": {
-      "nom": "GONNET",
-      "nomNaissance": "GONNET",
-      "prenoms": "JULIEN",
       "dob": "14/08/1964"
     },
     "declarant2": {
@@ -237,26 +181,54 @@
       "dob": ""
     },
     "adress": {
-      "ligne1": "41 rue du bon pasteur",
-      "ligne2": "69001 Lyon"
+      "ligne1": "28 cours lafayette",
+      "ligne2": "69003 lyon"
     },
-    "dateRecouvrement": "13/07/2015",
-    "dateEtablissement": "13/08/2015",
-    "nombreParts": "1.00",
+    "dateRecouvrement": "24/07/2015",
+    "dateEtablissement": "16/08/2015",
+    "nombreParts": "1.25",
     "situationFamiliale": "Célibataire",
-    "nombreDePersonneACharge": "0",
+    "nombreDePersonneACharge": "0.5",
     "revenuBrutGlobal": "9&nbsp;455 €",
     "revenuImposable": "9&nbsp;455 €",
     "impotsNetAvantCorrections": "0 €",
     "impots": "0 €",
     "revenuFiscalReference": "9&nbsp;455 €"
   },
+  "1566453667825+1569095453648": {
+    "declarant1": {
+      "nom": "NOIR",
+      "nomNaissance": "NOIR",
+      "prenoms": "CHARLINE",
+      "dob": "22/01/1982"
+    },
+    "declarant2": {
+      "nom": "",
+      "nomNaissance": "",
+      "prenoms": "",
+      "dob": ""
+    },
+    "adress": {
+      "ligne1": "28 cours lafayette",
+      "ligne2": "69003 lyon"
+    },
+    "dateRecouvrement": "24/07/2015",
+    "dateEtablissement": "16/07/2015",
+    "nombreParts": "1.25",
+    "situationFamiliale": "Célibataire",
+    "nombreDePersonneACharge": "0.5",
+    "revenuBrutGlobal": "20&nbsp;231 €",
+    "revenuImposable": "20&nbsp;231 €",
+    "impotsNetAvantCorrections": "876 €",
+    "impots": "459 €",
+    "revenuFiscalReference": "20&nbsp;231 €"
+  },
   "1593453567825+1569078912687": {
     "declarant1": {
-      "nom": "ARBONA-VIDAL",
-      "nomNaissance": "ARBONA-VIDAL",
-      "prenoms": "MARJOLAINE",
-      "dob": "04/19/1980"
+      "nom": "BANOL",
+      "nomNaissance": "BANOL",
+      "prenoms": "JULIEN",
+      "dob": "11/07/1980"
     },
     "declarant2": {
       "nom": "",
@@ -269,8 +241,36 @@
       "ligne2": "69001 Lyon"
     },
     "dateRecouvrement": "13/07/2015",
-    "dateEtablissement": "13/08/2015",
-    "nombreParts": "1.00",
+    "dateEtablissement": "13/07/2015",
+    "nombreParts": "2.50",
+    "situationFamiliale": "Célibataire",
+    "nombreDePersonneACharge": "2",
+    "revenuBrutGlobal": "24&nbsp;963 €",
+    "revenuImposable": "24&nbsp;963 €",
+    "impotsNetAvantCorrections": "429 €",
+    "impots": "0 €",
+    "revenuFiscalReference": "24&nbsp;963 €"
+  },
+  "1593453567825+1569078912687": {
+    "declarant1": {
+      "nom": "KENDAL",
+      "nomNaissance": "KENDAL",
+      "prenoms": "MARJOLAINE",
+      "dob": "19/04/1980"
+    },
+    "declarant2": {
+      "nom": "",
+      "nomNaissance": "",
+      "prenoms": "",
+      "dob": ""
+    },
+    "adress": {
+      "ligne1": "41 rue du bon pasteur",
+      "ligne2": "69001 Lyon"
+    },
+    "dateRecouvrement": "13/07/2015",
+    "dateEtablissement": "13/07/2015",
+    "nombreParts": "2.00",
     "situationFamiliale": "Célibataire",
     "nombreDePersonneACharge": "1",
     "revenuBrutGlobal": "13&nbsp;409 €",
@@ -281,8 +281,8 @@
   },
   "1585389447825+1569055677895": {
     "declarant1": {
-      "nom": "ARBORE",
-      "nomNaissance": "ARBORE",
+      "nom": "RAFT",
+      "nomNaissance": "RAFT",
       "prenoms": "GERALDINE",
       "dob": "06/05/1979"
     },
@@ -297,22 +297,22 @@
       "ligne2": "69001 Lyon"
     },
     "dateRecouvrement": "13/07/2015",
-    "dateEtablissement": "13/08/2015",
-    "nombreParts": "1.50",
+    "dateEtablissement": "13/07/2015",
+    "nombreParts": "2",
     "situationFamiliale": "Célibataire",
     "nombreDePersonneACharge": "1",
-    "revenuBrutGlobal": "10&nbsp;25 €",
-    "revenuImposable": "10&nbsp;25 €",
+    "revenuBrutGlobal": "10&nbsp;250 €",
+    "revenuImposable": "10&nbsp;250 €",
     "impotsNetAvantCorrections": "0 €",
     "impots": "0 €",
-    "revenuFiscalReference": "10&nbsp;25 €"
+    "revenuFiscalReference": "10&nbsp;250 €"
   },
   "1583845647825+1569099488956": {
     "declarant1": {
-      "nom": "POUPON",
-      "nomNaissance": "POUPON",
+      "nom": "CAITA",
+      "nomNaissance": "CAITA",
       "prenoms": "EMMANUEL",
-      "dob": "05/12/1981"
+      "dob": "12/05/1981"
     },
     "declarant2": {
       "nom": "",
@@ -325,8 +325,8 @@
       "ligne2": "69001 Lyon"
     },
     "dateRecouvrement": "13/07/2015",
-    "dateEtablissement": "13/08/2015",
-    "nombreParts": "1.50",
+    "dateEtablissement": "13/07/2015",
+    "nombreParts": "2.00",
     "situationFamiliale": "Célibataire",
     "nombreDePersonneACharge": "1",
     "revenuBrutGlobal": "18&nbsp;204 €",
