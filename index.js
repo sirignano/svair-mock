@@ -14,8 +14,8 @@ app.get('/', function (req, res) {
 });
 
 app.post('/secavis/faces/commun/index.jsf', function (req, res) {
-  const numFiscal = req.body["j_id6:spi"]
-  const referenceAvis = req.body["j_id6:num_facture"]
+  const numFiscal = req.body["j_id_7:spi"]
+  const referenceAvis = req.body["j_id_7:num_facture"]
   const id = numFiscal + "+" + referenceAvis
   const data = results[id];
   if(data) {
