@@ -334,33 +334,5 @@
     "impotsNetAvantCorrections": "0 €",
     "impots": "0 €",
     "revenuFiscalReference": "18&nbsp;204 €"
-  },
-  "88+90": {
-    "declarant1": {
-      "nom": "Durano",
-      "nomNaissance": "Durano",
-      "prenoms": "Emile",
-      "dob": "22/03/1985"
-    },
-    "declarant2": {
-      "nom": "Durano",
-      "nomNaissance": "Martin",
-      "prenoms": "Marianne",
-      "dob": "03/04/1986"
-    },
-    "adress": {
-      "ligne1": "14 rue du Ponant",
-      "ligne2": "88000 Epinal"
-    },
-    "dateRecouvrement": "10/10/2015",
-    "dateEtablissement": "08/07/2015",
-    "nombreParts": "2.00",
-    "situationFamiliale": "Marié(e)s",
-    "nombreDePersonneACharge": "2",
-    "revenuBrutGlobal": "29&nbsp;880 €",
-    "revenuImposable": "29&nbsp;880 €",
-    "impotsNetAvantCorrections": "2&nbsp;165 €",
-    "impots": "2&nbsp;165 €",
-    "revenuFiscalReference": "29&nbsp;880 €"
-  }  
+  }
 }
