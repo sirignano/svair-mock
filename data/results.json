@@ -362,5 +362,33 @@
     "impotsNetAvantCorrections": "2&nbsp;165 €",
     "impots": "2&nbsp;165 €",
     "revenuFiscalReference": "29&nbsp;880 €"
+  },
+  "95+1595": {
+    "declarant1": {
+      "nom": "RAFU",
+      "nomNaissance": "RAFU",
+      "prenoms": "Caroline",
+      "dob": "06/05/1979"
+    },
+    "declarant2": {
+      "nom": "",
+      "nomNaissance": "",
+      "prenoms": "",
+      "dob": ""
+    },
+    "adress": {
+      "ligne1": "27 rue des Ecoles",
+      "ligne2": "95610 Eragny"
+    },
+    "dateRecouvrement": "13/07/2015",
+    "dateEtablissement": "13/07/2015",
+    "nombreParts": "2",
+    "situationFamiliale": "Célibataire",
+    "nombreDePersonneACharge": "1",
+    "revenuBrutGlobal": "10&nbsp;250 €",
+    "revenuImposable": "10&nbsp;250 €",
+    "impotsNetAvantCorrections": "0 €",
+    "impots": "0 €",
+    "revenuFiscalReference": "10&nbsp;250 €"
   }
 }
