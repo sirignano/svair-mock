@@ -390,5 +390,33 @@
     "impotsNetAvantCorrections": "0 €",
     "impots": "0 €",
     "revenuFiscalReference": "10&nbsp;250 €"
+  },
+  "25+1525": {
+    "declarant1": {
+      "nom": "Chabotte",
+      "nomNaissance": "Chabotte",
+      "prenoms": "Henri",
+      "dob": "16/02/1949"
+    },
+    "declarant2": {
+      "nom": "Chabotte",
+      "nomNaissance": "Allauge",
+      "prenoms": "Madeleine",
+      "dob": "03/06/1945"
+    },
+    "adress": {
+      "ligne1": "5 rue du Tacot",
+      "ligne2": "25660 Montrond-le-Château"
+    },
+    "dateRecouvrement": "13/07/2015",
+    "dateEtablissement": "13/07/2015",
+    "nombreParts": "2",
+    "situationFamiliale": "Marié(e)s",
+    "nombreDePersonneACharge": "0",
+    "revenuBrutGlobal": "16&nbsp;550 €",
+    "revenuImposable": "16&nbsp;550 €",
+    "impotsNetAvantCorrections": "0 €",
+    "impots": "0 €",
+    "revenuFiscalReference": "16&nbsp;550 €"
   }
 }
