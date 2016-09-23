@@ -391,6 +391,34 @@
     "impots": "0 €",
     "revenuFiscalReference": "10&nbsp;250 €"
   },
+  "952+15952": {
+    "declarant1": {
+      "nom": "SAFO",
+      "nomNaissance": "SAFO",
+      "prenoms": "Jean-Pierre",
+      "dob": "06/05/1979"
+    },
+    "declarant2": {
+      "nom": "SAFO",
+      "nomNaissance": "Alloui",
+      "prenoms": "Christelle",
+      "dob": "03/06/1975"
+    },
+    "adress": {
+      "ligne1": "1 boulevard Jacques Tête",
+      "ligne2": "95300 Pontoise"
+    },
+    "dateRecouvrement": "13/07/2015",
+    "dateEtablissement": "13/07/2015",
+    "nombreParts": "2",
+    "situationFamiliale": "Marié(e)s",
+    "nombreDePersonneACharge": "0",
+    "revenuBrutGlobal": "16&nbsp;550 €",
+    "revenuImposable": "16&nbsp;550 €",
+    "impotsNetAvantCorrections": "0 €",
+    "impots": "0 €",
+    "revenuFiscalReference": "16&nbsp;550 €"
+  },
   "25+1525": {
     "declarant1": {
       "nom": "Chabotte",
