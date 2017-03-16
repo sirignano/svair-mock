@@ -446,5 +446,117 @@
     "impotsNetAvantCorrections": "0 €",
     "impots": "0 €",
     "revenuFiscalReference": "16&nbsp;550 €"
+  },
+  "1582453447251+1569051442251": {
+    "declarant1": {
+      "nom": "Lévesque",
+      "nomNaissance": "Adrien",
+      "prenoms": "Emile",
+      "dob": "22/03/1985"
+    },
+    "declarant2": {
+      "nom": "Lévesque",
+      "nomNaissance": "Mailly",
+      "prenoms": "Liane",
+      "dob": "01/12/1973"
+    },
+    "adress": {
+      "ligne1": "3 Rue Jean Jaurès",
+      "ligne2": "25500 Morteau"
+    },
+    "dateRecouvrement": "10/10/2015",
+    "dateEtablissement": "08/07/2015",
+    "nombreParts": "2.00",
+    "situationFamiliale": "Marié(e)s",
+    "nombreDePersonneACharge": "2",
+    "revenuBrutGlobal": "18&nbsp;410 €",
+    "revenuImposable": "18&nbsp;410 €",
+    "impotsNetAvantCorrections": "2&nbsp;165 €",
+    "impots": "2&nbsp;165 €",
+    "revenuFiscalReference": "18&nbsp;410 €"
+  },
+  "1582453447252+1569051442252": {
+    "declarant1": {
+      "nom": "Tessier",
+      "nomNaissance": "Tessier",
+      "prenoms": "Prunella",
+      "dob": "19/09/1954"
+    },
+    "declarant2": {
+      "nom": "",
+      "nomNaissance": "",
+      "prenoms": "",
+      "dob": ""
+    },
+    "adress": {
+      "ligne1": "1 Rue des Marronniers",
+      "ligne2": "25500 Morteau"
+    },
+    "dateRecouvrement": "10/10/2015",
+    "dateEtablissement": "08/07/2015",
+    "nombreParts": "1.00",
+    "situationFamiliale": "Célibataire",
+    "nombreDePersonneACharge": "1",
+    "revenuBrutGlobal": "18&nbsp;409 €",
+    "revenuImposable": "18&nbsp;409 €",
+    "impotsNetAvantCorrections": "2&nbsp;165 €",
+    "impots": "2&nbsp;165 €",
+    "revenuFiscalReference": "18&nbsp;409 €"
+  },
+  "1582453447253+1569051442253": {
+    "declarant1": {
+      "nom": "Duval",
+      "nomNaissance": "Couet",
+      "prenoms": "Guillaume",
+      "dob": "13/08/1967"
+    },
+    "declarant2": {
+      "nom": "Duval",
+      "nomNaissance": "Duval",
+      "prenoms": "Mélodie",
+      "dob": "24/11/1967"
+    },
+    "adress": {
+      "ligne1": "1 Rossignier Haut",
+      "ligne2": "25570 Grand'Combe-Châteleu"
+    },
+    "dateRecouvrement": "10/10/2015",
+    "dateEtablissement": "08/07/2015",
+    "nombreParts": "2.00",
+    "situationFamiliale": "Marié(e)s",
+    "nombreDePersonneACharge": "2",
+    "revenuBrutGlobal": "21&nbsp;000 €",
+    "revenuImposable": "21&nbsp;000 €",
+    "impotsNetAvantCorrections": "2&nbsp;165 €",
+    "impots": "2&nbsp;165 €",
+    "revenuFiscalReference": "21&nbsp;000 €"
+  },
+  "1582453447254+1569051442254": {
+    "declarant1": {
+      "nom": "Beausoleil",
+      "nomNaissance": "Beausoleil",
+      "prenoms": "Henri",
+      "dob": "13/08/1967"
+    },
+    "declarant2": {
+      "nom": "Beausoleil",
+      "nomNaissance": "Cervántez",
+      "prenoms": "Armina",
+      "dob": "1/08/1947"
+    },
+    "adress": {
+      "ligne1": "34 Rue du Petit Chenois",
+      "ligne2": "25200 Montbéliard"
+    },
+    "dateRecouvrement": "10/10/2015",
+    "dateEtablissement": "08/07/2015",
+    "nombreParts": "2.00",
+    "situationFamiliale": "Marié(e)s",
+    "nombreDePersonneACharge": "2",
+    "revenuBrutGlobal": "26&nbsp;922 €",
+    "revenuImposable": "26&nbsp;922 €",
+    "impotsNetAvantCorrections": "2&nbsp;165 €",
+    "impots": "2&nbsp;165 €",
+    "revenuFiscalReference": "26&nbsp;922 €"
   }
 }
