@@ -531,6 +531,118 @@
     "impots": "0 €",
     "revenuFiscalReference": "16&nbsp;550 €"
   },
+  "1582453447951+1569051442951": {
+    "declarant1": {
+      "nom": "Mailloux",
+      "nomNaissance": "Mailloux",
+      "prenoms": "Jay",
+      "dob": "14/02/1945"
+    },
+    "declarant2": {
+      "nom": "",
+      "nomNaissance": "",
+      "prenoms": "",
+      "dob": ""
+    },
+    "adress": {
+      "ligne1": "1 Rue des Frères Rousse",
+      "ligne2": "95780 La Roche-Guyon"
+    },
+    "dateRecouvrement": "13/07/2015",
+    "dateEtablissement": "13/07/2015",
+    "nombreParts": "1",
+    "situationFamiliale": "Célibataire",
+    "nombreDePersonneACharge": "1",
+    "revenuBrutGlobal": "19&nbsp;875 €",
+    "revenuImposable": "19&nbsp;875 €",
+    "impotsNetAvantCorrections": "0 €",
+    "impots": "0 €",
+    "revenuFiscalReference": "19&nbsp;875 €"
+  },
+  "1582453447952+1569051442952": {
+    "declarant1": {
+      "nom": "Cruz",
+      "nomNaissance": "Cruz",
+      "prenoms": "Albert",
+      "dob": "06/05/1947"
+    },
+    "declarant2": {
+      "nom": "Cruz",
+      "nomNaissance": "Querry",
+      "prenoms": "Denise",
+      "dob": "03/06/1945"
+    },
+    "adress": {
+      "ligne1": "10 Cours du Puits",
+      "ligne2": "95690 Labbeville"
+    },
+    "dateRecouvrement": "13/07/2015",
+    "dateEtablissement": "13/07/2015",
+    "nombreParts": "2",
+    "situationFamiliale": "Marié(e)s",
+    "nombreDePersonneACharge": "0",
+    "revenuBrutGlobal": "35&nbsp;509 €",
+    "revenuImposable": "35&nbsp;509 €",
+    "impotsNetAvantCorrections": "992 €",
+    "impots": "992 €",
+    "revenuFiscalReference": "35&nbsp;509 €"
+  },
+  "1582453447953+1569051442953": {
+    "declarant1": {
+      "nom": "Vela Cotto",
+      "nomNaissance": "Pabst",
+      "prenoms": "Swen",
+      "dob": "28/11/1990"
+    },
+    "declarant2": {
+      "nom": "Vela Cotto",
+      "nomNaissance": "Vela Cotto",
+      "prenoms": "Alegra",
+      "dob": "03/03/1988"
+    },
+    "adress": {
+      "ligne1": "14 Avenue du Dr Charles Fritz",
+      "ligne2": "95290 L'Isle-Adam"
+    },
+    "dateRecouvrement": "18/09/2015",
+    "dateEtablissement": "11/06/2015",
+    "nombreParts": "4.00",
+    "situationFamiliale": "Marié(e)s",
+    "nombreDePersonneACharge": "4",
+    "revenuBrutGlobal": "38&nbsp;031 €",
+    "revenuImposable": "38&nbsp;031 €",
+    "impotsNetAvantCorrections": "0 €",
+    "impots": "0 €",
+    "revenuFiscalReference": "38&nbsp;031 €"
+  },
+  "1582453447954+1569051442954": {
+    "declarant1": {
+      "nom": "Loiseau",
+      "nomNaissance": "Loiseau",
+      "prenoms": "Marc",
+      "dob": "23/11/1979"
+    },
+    "declarant2": {
+      "nom": "Ijlal Shamon",
+      "nomNaissance": "Ijlal Shamon",
+      "prenoms": "Lucie",
+      "dob": "21/09/1977"
+    },
+    "adress": {
+      "ligne1": "7 Rue de la Pierre Miclare",
+      "ligne2": "95000 Cergy"
+    },
+    "dateRecouvrement": "13/08/2015",
+    "dateEtablissement": "11/06/2015",
+    "nombreParts": "4.00",
+    "situationFamiliale": "Marié(e)s",
+    "nombreDePersonneACharge": "4",
+    "revenuBrutGlobal": "48&nbsp;751 €",
+    "revenuImposable": "48&nbsp;751 €",
+    "impotsNetAvantCorrections": "1&nbsp;123 €",
+    "impots": "1&nbsp;123 €",
+    "revenuFiscalReference": "48&nbsp;751 €"
+  },
   "25+1525": {
     "declarant1": {
       "nom": "Chabotte",
