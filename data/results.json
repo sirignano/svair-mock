@@ -782,5 +782,117 @@
     "impotsNetAvantCorrections": "2&nbsp;165 €",
     "impots": "2&nbsp;165 €",
     "revenuFiscalReference": "26&nbsp;922 €"
+  },
+  "1582453447331+1569051442331": {
+    "declarant1": {
+      "nom": "Adamski",
+      "nomNaissance": "Adamski",
+      "prenoms": "Benoît",
+      "dob": "23/11/1964"
+    },
+    "declarant2": {
+      "nom": "",
+      "nomNaissance": "",
+      "prenoms": "",
+      "dob": ""
+    },
+    "adress": {
+      "ligne1": "15 Rue d’Auriol",
+      "ligne2": "31400 Toulouse"
+    },
+    "dateRecouvrement": "21/08/2015",
+    "dateEtablissement": "11/06/2015",
+    "nombreParts": "3.00",
+    "situationFamiliale": "Célibataire",
+    "nombreDePersonneACharge": "4",
+    "revenuBrutGlobal": "33&nbsp;775 €",
+    "revenuImposable": "33&nbsp;775 €",
+    "impotsNetAvantCorrections": "731 €",
+    "impots": "731 €",
+    "revenuFiscalReference": "33&nbsp;775 €"
+  },
+  "1582453447332+1569051442332": {
+    "declarant1": {
+      "nom": "Vallée",
+      "nomNaissance": "Vallée",
+      "prenoms": "Bruno",
+      "dob": "23/11/1979"
+    },
+    "declarant2": {
+      "nom": "Vallée",
+      "nomNaissance": "Cazares Aguirre",
+      "prenoms": "Valentina",
+      "dob": "11/08/1973"
+    },
+    "adress": {
+      "ligne1": "16 Rue de l'Europe",
+      "ligne2": "31140 Aucamville"
+    },
+    "dateRecouvrement": "21/08/2015",
+    "dateEtablissement": "11/06/2015",
+    "nombreParts": "3.50",
+    "situationFamiliale": "Marié(e)s",
+    "nombreDePersonneACharge": "3",
+    "revenuBrutGlobal": "43&nbsp;296 €",
+    "revenuImposable": "43&nbsp;296 €",
+    "impotsNetAvantCorrections": "1&nbsp;432 €",
+    "impots": "1&nbsp;432 €",
+    "revenuFiscalReference": "43&nbsp;296 €"
+  },
+  "1582453447333+1569051442333": {
+    "declarant1": {
+      "nom": "Lombardo",
+      "nomNaissance": "Lombardo",
+      "prenoms": "René",
+      "dob": "23/11/1953"
+    },
+    "declarant2": {
+      "nom": "Lombardo",
+      "nomNaissance": "Petibon",
+      "prenoms": "Jaqueline",
+      "dob": "11/08/1954"
+    },
+    "adress": {
+      "ligne1": "61 Boulevard des Pyrénées",
+      "ligne2": "31370 Rieumes"
+    },
+    "dateRecouvrement": "21/08/2015",
+    "dateEtablissement": "11/06/2015",
+    "nombreParts": "4.00",
+    "situationFamiliale": "Marié(e)s",
+    "nombreDePersonneACharge": "4",
+    "revenuBrutGlobal": "38&nbsp;031 €",
+    "revenuImposable": "38&nbsp;031 €",
+    "impotsNetAvantCorrections": "1&nbsp;132 €",
+    "impots": "1&nbsp;132 €",
+    "revenuFiscalReference": "38&nbsp;031 €"
+  },
+  "1582453447334+1569051442334": {
+    "declarant1": {
+      "nom": "Fiedler",
+      "nomNaissance": "Fiedler",
+      "prenoms": "Luc",
+      "dob": "11/11/1984"
+    },
+    "declarant2": {
+      "nom": "Grandjean",
+      "nomNaissance": "Grandjean",
+      "prenoms": "Ismane",
+      "dob": "21/02/1985"
+    },
+    "adress": {
+      "ligne1": "15 Rue Spont",
+      "ligne2": "31110 Bagnères-de-Luchon"
+    },
+    "dateRecouvrement": "21/08/2015",
+    "dateEtablissement": "11/06/2015",
+    "nombreParts": "4.00",
+    "situationFamiliale": "Marié(e)s",
+    "nombreDePersonneACharge": "4",
+    "revenuBrutGlobal": "48&nbsp;751 €",
+    "revenuImposable": "48&nbsp;751 €",
+    "impotsNetAvantCorrections": "1&nbsp;432 €",
+    "impots": "1&nbsp;432 €",
+    "revenuFiscalReference": "48&nbsp;751 €"
   }
 }
