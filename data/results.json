@@ -363,6 +363,118 @@
     "impots": "2&nbsp;165 €",
     "revenuFiscalReference": "29&nbsp;880 €"
   },
+  "1582453447881+1569051442881": {
+    "declarant1": {
+      "nom": "Gareau",
+      "nomNaissance": "Gareau",
+      "prenoms": "Idris",
+      "dob": "1/04/1971"
+    },
+    "declarant2": {
+      "nom": "Hactel",
+      "nomNaissance": "Hactel",
+      "prenoms": "Yanis",
+      "dob": "4/02/1978"
+    },
+    "adress": {
+      "ligne1": "13 Rue des Chênes",
+      "ligne2": "68800 Vieux-Thann"
+    },
+    "dateRecouvrement": "13/07/2015",
+    "dateEtablissement": "13/07/2015",
+    "nombreParts": "3",
+    "situationFamiliale": "Marié(e)s",
+    "nombreDePersonneACharge": "2",
+    "revenuBrutGlobal": "25&nbsp;256 €",
+    "revenuImposable": "25&nbsp;256 €",
+    "impotsNetAvantCorrections": "2&nbsp;165 €",
+    "impots": "2&nbsp;165 €",
+    "revenuFiscalReference": "25&nbsp;256 €"
+  },
+  "1582453447882+1569051442882": {
+    "declarant1": {
+      "nom": "Landry",
+      "nomNaissance": "Landry",
+      "prenoms": "Alphonse",
+      "dob": "06/05/1979"
+    },
+    "declarant2": {
+      "nom": "Landry",
+      "nomNaissance": "Corbin",
+      "prenoms": "Éloïse",
+      "dob": "03/06/1975"
+    },
+    "adress": {
+      "ligne1": "5 Rue Charles Derise",
+      "ligne2": "88500 Mirecourt"
+    },
+    "dateRecouvrement": "13/07/2015",
+    "dateEtablissement": "13/07/2015",
+    "nombreParts": "2",
+    "situationFamiliale": "Marié(e)s",
+    "nombreDePersonneACharge": "1",
+    "revenuBrutGlobal": "32&nbsp;376 €",
+    "revenuImposable": "32&nbsp;376 €",
+    "impotsNetAvantCorrections": "2&nbsp;165 €",
+    "impots": "2&nbsp;165 €",
+    "revenuFiscalReference": "32&nbsp;376 €"
+  },
+  "1582453447883+1569051442883": {
+    "declarant1": {
+      "nom": "Moreau",
+      "nomNaissance": "Moreau",
+      "prenoms": "Denis",
+      "dob": "1/04/1971"
+    },
+    "declarant2": {
+      "nom": "Moreau",
+      "nomNaissance": "Guilmette",
+      "prenoms": "Sabine",
+      "dob": "19/11/1983"
+    },
+    "adress": {
+      "ligne1": "1 Rue de la Victoire",
+      "ligne2": "68700 Wattwiller"
+    },
+    "dateRecouvrement": "13/07/2015",
+    "dateEtablissement": "13/07/2015",
+    "nombreParts": "3",
+    "situationFamiliale": "Marié(e)s",
+    "nombreDePersonneACharge": "3",
+    "revenuBrutGlobal": "29&nbsp;505 €",
+    "revenuImposable": "29&nbsp;505 €",
+    "impotsNetAvantCorrections": "2&nbsp;165 €",
+    "impots": "2&nbsp;165 €",
+    "revenuFiscalReference": "29&nbsp;505 €"
+  },
+  "1582453447884+1569051442884": {
+    "declarant1": {
+      "nom": "Fouquet",
+      "nomNaissance": "Fouquet",
+      "prenoms": "Soren",
+      "dob": "1/04/1978"
+    },
+    "declarant2": {
+      "nom": "Quessy",
+      "nomNaissance": "Quessy",
+      "prenoms": "Mireille",
+      "dob": "19/11/1982"
+    },
+    "adress": {
+      "ligne1": "1 Rue de la Gare",
+      "ligne2": "88310 Cornimont"
+    },
+    "dateRecouvrement": "13/07/2015",
+    "dateEtablissement": "13/07/2015",
+    "nombreParts": "3",
+    "situationFamiliale": "Marié(e)s",
+    "nombreDePersonneACharge": "3",
+    "revenuBrutGlobal": "37&nbsp;825 €",
+    "revenuImposable": "37&nbsp;825 €",
+    "impotsNetAvantCorrections": "2&nbsp;665 €",
+    "impots": "2&nbsp;665 €",
+    "revenuFiscalReference": "37&nbsp;825 €"
+  },
   "95+1595": {
     "declarant1": {
       "nom": "RAFU",
