@@ -894,5 +894,117 @@
     "impotsNetAvantCorrections": "1&nbsp;432 €",
     "impots": "1&nbsp;432 €",
     "revenuFiscalReference": "48&nbsp;751 €"
+  },
+  "1582453447621+1569051442621": {
+    "declarant1": {
+      "nom": "Kalb",
+      "nomNaissance": "Kalb",
+      "prenoms": "Sabrina",
+      "dob": "11/11/1983"
+    },
+    "declarant2": {
+      "nom": "",
+      "nomNaissance": "",
+      "prenoms": "",
+      "dob": ""
+    },
+    "adress": {
+      "ligne1": "4 Rue Camille Pissarro",
+      "ligne2": "62000 Arras"
+    },
+    "dateRecouvrement": "21/08/2015",
+    "dateEtablissement": "11/06/2015",
+    "nombreParts": "1.00",
+    "situationFamiliale": "Célibataire",
+    "nombreDePersonneACharge": "1",
+    "revenuBrutGlobal": "18&nbsp;876 €",
+    "revenuImposable": "18&nbsp;876 €",
+    "impotsNetAvantCorrections": "0 €",
+    "impots": "0 €",
+    "revenuFiscalReference": "18&nbsp;876 €"
+  },
+  "1582453447622+1569051442622": {
+    "declarant1": {
+      "nom": "Jarir",
+      "nomNaissance": "Jarir",
+      "prenoms": "Sammy",
+      "dob": "15/02/1987"
+    },
+    "declarant2": {
+      "nom": "",
+      "nomNaissance": "",
+      "prenoms": "",
+      "dob": ""
+    },
+    "adress": {
+      "ligne1": "18 Rue Wallet",
+      "ligne2": "62200 Boulogne-sur-Mer"
+    },
+    "dateRecouvrement": "21/08/2015",
+    "dateEtablissement": "11/06/2015",
+    "nombreParts": "1.00",
+    "situationFamiliale": "Célibataire",
+    "nombreDePersonneACharge": "1",
+    "revenuBrutGlobal": "4&nbsp;394 €",
+    "revenuImposable": "4&nbsp;394 €",
+    "impotsNetAvantCorrections": "0 €",
+    "impots": "0 €",
+    "revenuFiscalReference": "4&nbsp;394 €"
+  },
+  "1582453447623+1569051442623": {
+    "declarant1": {
+      "nom": "Panetier",
+      "nomNaissance": "Panetier",
+      "prenoms": "Raymond",
+      "dob": "18/11/1955"
+    },
+    "declarant2": {
+      "nom": "Panetier",
+      "nomNaissance": "Allard",
+      "prenoms": "Yseult",
+      "dob": "13/01/1956"
+    },
+    "adress": {
+      "ligne1": "77B Rue Voltaire",
+      "ligne2": "62100 Calais"
+    },
+    "dateRecouvrement": "21/08/2015",
+    "dateEtablissement": "11/06/2015",
+    "nombreParts": "2.50",
+    "situationFamiliale": "Marié(e)s",
+    "nombreDePersonneACharge": "1",
+    "revenuBrutGlobal": "25&nbsp;258 €",
+    "revenuImposable": "25&nbsp;258 €",
+    "impotsNetAvantCorrections": "0 €",
+    "impots": "0 €",
+    "revenuFiscalReference": "25&nbsp;258 €"
+  },
+  "1582453447624+1569051442624": {
+    "declarant1": {
+      "nom": "Cruz Baeza",
+      "nomNaissance": "Cruz Baeza",
+      "prenoms": "Roxanne",
+      "dob": "13/04/1962"
+    },
+    "declarant2": {
+      "nom": "",
+      "nomNaissance": "",
+      "prenoms": "",
+      "dob": ""
+    },
+    "adress": {
+      "ligne1": "18 Rue du Général Potez",
+      "ligne2": "62170 Montreuil"
+    },
+    "dateRecouvrement": "21/08/2015",
+    "dateEtablissement": "11/06/2015",
+    "nombreParts": "1.00",
+    "situationFamiliale": "Célibataire",
+    "nombreDePersonneACharge": "1",
+    "revenuBrutGlobal": "20&nbsp;000 €",
+    "revenuImposable": "20&nbsp;000 €",
+    "impotsNetAvantCorrections": "0 €",
+    "impots": "0 €",
+    "revenuFiscalReference": "20&nbsp;000 €"
   }
 }
