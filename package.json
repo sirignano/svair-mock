@@ -1,6 +1,6 @@
 {
   "name": "svair-mock",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "fake svair system",
   "main": "index.js",
   "scripts": {
