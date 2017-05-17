@@ -21,7 +21,11 @@ app.post('/secavis/faces/commun/index.jsf', function (req, res) {
   const numFiscal = req.body["j_id_7:spi"]
   const referenceAvis = req.body["j_id_7:num_facture"]
   const id = numFiscal + "+" + referenceAvis
-  const data = results[id];
+  const defaultData = {
+    anneeImpots: '2015',
+    anneeRevenus: '2014'
+  }
+  const data = Object.assign(defaultData, results[id])
   if(data) {
     data.layout = false;
     res.render('svair', data );
