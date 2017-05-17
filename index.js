@@ -1,5 +1,6 @@
 
 const express = require('express');
+const morgan = require('morgan')
 const app = express();
 const exphbs = require('express-handlebars');
 const results = require('./data/results');
@@ -7,6 +8,7 @@ const bodyParser = require('body-parser');
 
 app.engine('.hbs', exphbs({defaultLayout: 'single', extname: '.hbs'}));
 app.set('view engine', '.hbs');
+app.use(morgan('combined'))
 app.use(bodyParser.urlencoded({ extended: true })); // support encoded bodies
 
 app.get('/', function (req, res) {
