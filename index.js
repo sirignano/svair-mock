@@ -9,6 +9,7 @@ const path = require('path')
 
 app.engine('.hbs', exphbs({defaultLayout: 'single', extname: '.hbs'}));
 app.set('view engine', '.hbs');
+app.set('views', path.join(__dirname, 'views'));
 app.use(morgan('combined'))
 app.use(bodyParser.urlencoded({ extended: true })); // support encoded bodies
 
