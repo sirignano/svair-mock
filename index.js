@@ -25,12 +25,12 @@ app.post('/secavis/faces/commun/index.jsf', function (req, res) {
     anneeImpots: '2015',
     anneeRevenus: '2014'
   }
-  const data = Object.assign(defaultData, results[id])
+  const data = results[id]
   if(data) {
     data.layout = false;
-    res.render('svair', data );
+    res.render('svair', Object.assign(defaultData, data));
   } else {
-    res.render('missing', { layout: false } );
+    res.render('missing', { layout: false });
 
   }
 });
