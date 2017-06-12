@@ -335,315 +335,8 @@
     "impots": "0 €",
     "revenuFiscalReference": "18&nbsp;204 €"
   },
-  "88+1588": {
-    "declarant1": {
-      "nom": "Durano",
-      "nomNaissance": "Durano",
-      "prenoms": "Emile",
-      "dob": "22/03/1985"
-    },
-    "declarant2": {
-      "nom": "Durano",
-      "nomNaissance": "Martin",
-      "prenoms": "Marianne",
-      "dob": "03/04/1986"
-    },
-    "adress": {
-      "ligne1": "14 rue du Ponant",
-      "ligne2": "88000 Epinal"
-    },
-    "dateRecouvrement": "10/10/2015",
-    "dateEtablissement": "08/07/2015",
-    "nombreParts": "2.00",
-    "situationFamiliale": "Marié(e)s",
-    "nombreDePersonneACharge": "2",
-    "revenuBrutGlobal": "29&nbsp;880 €",
-    "revenuImposable": "29&nbsp;880 €",
-    "impotsNetAvantCorrections": "2&nbsp;165 €",
-    "impots": "2&nbsp;165 €",
-    "revenuFiscalReference": "29&nbsp;880 €"
-  },
-  "1582453447881+1569051442881": {
-    "declarant1": {
-      "nom": "Gareau",
-      "nomNaissance": "Gareau",
-      "prenoms": "Idris",
-      "dob": "1/04/1971"
-    },
-    "declarant2": {
-      "nom": "Hactel",
-      "nomNaissance": "Hactel",
-      "prenoms": "Yanis",
-      "dob": "4/02/1978"
-    },
-    "adress": {
-      "ligne1": "13 Rue des Chênes",
-      "ligne2": "68800 Vieux-Thann"
-    },
-    "dateRecouvrement": "13/07/2015",
-    "dateEtablissement": "13/07/2015",
-    "nombreParts": "3",
-    "situationFamiliale": "Marié(e)s",
-    "nombreDePersonneACharge": "2",
-    "revenuBrutGlobal": "25&nbsp;256 €",
-    "revenuImposable": "25&nbsp;256 €",
-    "impotsNetAvantCorrections": "2&nbsp;165 €",
-    "impots": "2&nbsp;165 €",
-    "revenuFiscalReference": "25&nbsp;256 €"
-  },
-  "1582453447882+1569051442882": {
-    "declarant1": {
-      "nom": "Landry",
-      "nomNaissance": "Landry",
-      "prenoms": "Alphonse",
-      "dob": "06/05/1979"
-    },
-    "declarant2": {
-      "nom": "Landry",
-      "nomNaissance": "Corbin",
-      "prenoms": "Éloïse",
-      "dob": "03/06/1975"
-    },
-    "adress": {
-      "ligne1": "5 Rue Charles Derise",
-      "ligne2": "88500 Mirecourt"
-    },
-    "dateRecouvrement": "13/07/2015",
-    "dateEtablissement": "13/07/2015",
-    "nombreParts": "2",
-    "situationFamiliale": "Marié(e)s",
-    "nombreDePersonneACharge": "1",
-    "revenuBrutGlobal": "32&nbsp;376 €",
-    "revenuImposable": "32&nbsp;376 €",
-    "impotsNetAvantCorrections": "2&nbsp;165 €",
-    "impots": "2&nbsp;165 €",
-    "revenuFiscalReference": "32&nbsp;376 €"
-  },
-  "1582453447883+1569051442883": {
-    "declarant1": {
-      "nom": "Moreau",
-      "nomNaissance": "Moreau",
-      "prenoms": "Denis",
-      "dob": "1/04/1971"
-    },
-    "declarant2": {
-      "nom": "Moreau",
-      "nomNaissance": "Guilmette",
-      "prenoms": "Sabine",
-      "dob": "19/11/1983"
-    },
-    "adress": {
-      "ligne1": "1 Rue de la Victoire",
-      "ligne2": "68700 Wattwiller"
-    },
-    "dateRecouvrement": "13/07/2015",
-    "dateEtablissement": "13/07/2015",
-    "nombreParts": "3",
-    "situationFamiliale": "Marié(e)s",
-    "nombreDePersonneACharge": "3",
-    "revenuBrutGlobal": "29&nbsp;505 €",
-    "revenuImposable": "29&nbsp;505 €",
-    "impotsNetAvantCorrections": "2&nbsp;165 €",
-    "impots": "2&nbsp;165 €",
-    "revenuFiscalReference": "29&nbsp;505 €"
-  },
-  "1582453447884+1569051442884": {
-    "declarant1": {
-      "nom": "Fouquet",
-      "nomNaissance": "Fouquet",
-      "prenoms": "Soren",
-      "dob": "1/04/1978"
-    },
-    "declarant2": {
-      "nom": "Quessy",
-      "nomNaissance": "Quessy",
-      "prenoms": "Mireille",
-      "dob": "19/11/1982"
-    },
-    "adress": {
-      "ligne1": "1 Rue de la Gare",
-      "ligne2": "88310 Cornimont"
-    },
-    "dateRecouvrement": "13/07/2015",
-    "dateEtablissement": "13/07/2015",
-    "nombreParts": "3",
-    "situationFamiliale": "Marié(e)s",
-    "nombreDePersonneACharge": "3",
-    "revenuBrutGlobal": "37&nbsp;825 €",
-    "revenuImposable": "37&nbsp;825 €",
-    "impotsNetAvantCorrections": "2&nbsp;665 €",
-    "impots": "2&nbsp;665 €",
-    "revenuFiscalReference": "37&nbsp;825 €"
-  },
-  "95+1595": {
-    "declarant1": {
-      "nom": "RAFU",
-      "nomNaissance": "RAFU",
-      "prenoms": "Caroline",
-      "dob": "06/05/1979"
-    },
-    "declarant2": {
-      "nom": "",
-      "nomNaissance": "",
-      "prenoms": "",
-      "dob": ""
-    },
-    "adress": {
-      "ligne1": "27 rue des Ecoles",
-      "ligne2": "95610 Eragny"
-    },
-    "dateRecouvrement": "13/07/2015",
-    "dateEtablissement": "13/07/2015",
-    "nombreParts": "2",
-    "situationFamiliale": "Célibataire",
-    "nombreDePersonneACharge": "1",
-    "revenuBrutGlobal": "10&nbsp;250 €",
-    "revenuImposable": "10&nbsp;250 €",
-    "impotsNetAvantCorrections": "0 €",
-    "impots": "0 €",
-    "revenuFiscalReference": "10&nbsp;250 €"
-  },
-  "952+15952": {
-    "declarant1": {
-      "nom": "SAFO",
-      "nomNaissance": "SAFO",
-      "prenoms": "Jean-Pierre",
-      "dob": "06/05/1979"
-    },
-    "declarant2": {
-      "nom": "SAFO",
-      "nomNaissance": "Alloui",
-      "prenoms": "Christelle",
-      "dob": "03/06/1975"
-    },
-    "adress": {
-      "ligne1": "1 boulevard Jacques Tête",
-      "ligne2": "95300 Pontoise"
-    },
-    "dateRecouvrement": "13/07/2015",
-    "dateEtablissement": "13/07/2015",
-    "nombreParts": "2",
-    "situationFamiliale": "Marié(e)s",
-    "nombreDePersonneACharge": "0",
-    "revenuBrutGlobal": "16&nbsp;550 €",
-    "revenuImposable": "16&nbsp;550 €",
-    "impotsNetAvantCorrections": "0 €",
-    "impots": "0 €",
-    "revenuFiscalReference": "16&nbsp;550 €"
-  },
-  "1582453447951+1569051442951": {
-    "declarant1": {
-      "nom": "Mailloux",
-      "nomNaissance": "Mailloux",
-      "prenoms": "Jay",
-      "dob": "14/02/1945"
-    },
-    "declarant2": {
-      "nom": "",
-      "nomNaissance": "",
-      "prenoms": "",
-      "dob": ""
-    },
-    "adress": {
-      "ligne1": "1 Rue des Frères Rousse",
-      "ligne2": "95780 La Roche-Guyon"
-    },
-    "dateRecouvrement": "13/07/2015",
-    "dateEtablissement": "13/07/2015",
-    "nombreParts": "1",
-    "situationFamiliale": "Célibataire",
-    "nombreDePersonneACharge": "1",
-    "revenuBrutGlobal": "19&nbsp;875 €",
-    "revenuImposable": "19&nbsp;875 €",
-    "impotsNetAvantCorrections": "0 €",
-    "impots": "0 €",
-    "revenuFiscalReference": "19&nbsp;875 €"
-  },
-  "1582453447952+1569051442952": {
-    "declarant1": {
-      "nom": "Cruz",
-      "nomNaissance": "Cruz",
-      "prenoms": "Albert",
-      "dob": "06/05/1947"
-    },
-    "declarant2": {
-      "nom": "Cruz",
-      "nomNaissance": "Querry",
-      "prenoms": "Denise",
-      "dob": "03/06/1945"
-    },
-    "adress": {
-      "ligne1": "10 Cours du Puits",
-      "ligne2": "95690 Labbeville"
-    },
-    "dateRecouvrement": "13/07/2015",
-    "dateEtablissement": "13/07/2015",
-    "nombreParts": "2",
-    "situationFamiliale": "Marié(e)s",
-    "nombreDePersonneACharge": "0",
-    "revenuBrutGlobal": "35&nbsp;509 €",
-    "revenuImposable": "35&nbsp;509 €",
-    "impotsNetAvantCorrections": "992 €",
-    "impots": "992 €",
-    "revenuFiscalReference": "35&nbsp;509 €"
-  },
-  "1582453447953+1569051442953": {
-    "declarant1": {
-      "nom": "Vela Cotto",
-      "nomNaissance": "Pabst",
-      "prenoms": "Swen",
-      "dob": "28/11/1990"
-    },
-    "declarant2": {
-      "nom": "Vela Cotto",
-      "nomNaissance": "Vela Cotto",
-      "prenoms": "Alegra",
-      "dob": "03/03/1988"
-    },
-    "adress": {
-      "ligne1": "14 Avenue du Dr Charles Fritz",
-      "ligne2": "95290 L'Isle-Adam"
-    },
-    "dateRecouvrement": "18/09/2015",
-    "dateEtablissement": "11/06/2015",
-    "nombreParts": "4.00",
-    "situationFamiliale": "Marié(e)s",
-    "nombreDePersonneACharge": "4",
-    "revenuBrutGlobal": "38&nbsp;031 €",
-    "revenuImposable": "38&nbsp;031 €",
-    "impotsNetAvantCorrections": "0 €",
-    "impots": "0 €",
-    "revenuFiscalReference": "38&nbsp;031 €"
-  },
-  "1582453447954+1569051442954": {
-    "declarant1": {
-      "nom": "Loiseau",
-      "nomNaissance": "Loiseau",
-      "prenoms": "Marc",
-      "dob": "23/11/1979"
-    },
-    "declarant2": {
-      "nom": "Ijlal Shamon",
-      "nomNaissance": "Ijlal Shamon",
-      "prenoms": "Lucie",
-      "dob": "21/09/1977"
-    },
-    "adress": {
-      "ligne1": "7 Rue de la Pierre Miclare",
-      "ligne2": "95000 Cergy"
-    },
-    "dateRecouvrement": "13/08/2015",
-    "dateEtablissement": "11/06/2015",
-    "nombreParts": "4.00",
-    "situationFamiliale": "Marié(e)s",
-    "nombreDePersonneACharge": "4",
-    "revenuBrutGlobal": "48&nbsp;751 €",
-    "revenuImposable": "48&nbsp;751 €",
-    "impotsNetAvantCorrections": "1&nbsp;123 €",
-    "impots": "1&nbsp;123 €",
-    "revenuFiscalReference": "48&nbsp;751 €"
-  },
-  "25+1525": {
+
+  "25+1625": {
     "declarant1": {
       "nom": "Chabotte",
       "nomNaissance": "Chabotte",
@@ -660,8 +353,10 @@
       "ligne1": "5 rue du Tacot",
       "ligne2": "25660 Montrond-le-Château"
     },
-    "dateRecouvrement": "13/07/2015",
-    "dateEtablissement": "13/07/2015",
+    "anneeImpots": "2016",
+    "anneeRevenus": "2015",
+    "dateRecouvrement": "13/07/2016",
+    "dateEtablissement": "13/07/2016",
     "nombreParts": "2",
     "situationFamiliale": "Marié(e)s",
     "nombreDePersonneACharge": "0",
@@ -671,7 +366,7 @@
     "impots": "0 €",
     "revenuFiscalReference": "16&nbsp;550 €"
   },
-  "1582453447251+1569051442251": {
+  "1682453447251+1669051442251": {
     "declarant1": {
       "nom": "Lévesque",
       "nomNaissance": "Adrien",
@@ -688,8 +383,10 @@
       "ligne1": "3 Rue Jean Jaurès",
       "ligne2": "25500 Morteau"
     },
-    "dateRecouvrement": "10/10/2015",
-    "dateEtablissement": "08/07/2015",
+    "anneeImpots": "2016",
+    "anneeRevenus": "2015",
+    "dateRecouvrement": "10/10/2016",
+    "dateEtablissement": "08/07/2016",
     "nombreParts": "2.00",
     "situationFamiliale": "Marié(e)s",
     "nombreDePersonneACharge": "2",
@@ -699,7 +396,7 @@
     "impots": "2&nbsp;165 €",
     "revenuFiscalReference": "18&nbsp;410 €"
   },
-  "1582453447252+1569051442252": {
+  "1682453447252+1669051442252": {
     "declarant1": {
       "nom": "Tessier",
       "nomNaissance": "Tessier",
@@ -716,8 +413,10 @@
       "ligne1": "1 Rue des Marronniers",
       "ligne2": "25500 Morteau"
     },
-    "dateRecouvrement": "10/10/2015",
-    "dateEtablissement": "08/07/2015",
+    "anneeImpots": "2016",
+    "anneeRevenus": "2015",
+    "dateRecouvrement": "10/10/2016",
+    "dateEtablissement": "08/07/2016",
     "nombreParts": "1.00",
     "situationFamiliale": "Célibataire",
     "nombreDePersonneACharge": "1",
@@ -727,7 +426,7 @@
     "impots": "2&nbsp;165 €",
     "revenuFiscalReference": "18&nbsp;409 €"
   },
-  "1582453447253+1569051442253": {
+  "1682453447253+1669051442253": {
     "declarant1": {
       "nom": "Duval",
       "nomNaissance": "Couet",
@@ -744,8 +443,10 @@
       "ligne1": "1 Rossignier Haut",
       "ligne2": "25570 Grand'Combe-Châteleu"
     },
-    "dateRecouvrement": "10/10/2015",
-    "dateEtablissement": "08/07/2015",
+    "anneeImpots": "2016",
+    "anneeRevenus": "2015",
+    "dateRecouvrement": "10/10/2016",
+    "dateEtablissement": "08/07/2016",
     "nombreParts": "2.00",
     "situationFamiliale": "Marié(e)s",
     "nombreDePersonneACharge": "2",
@@ -755,7 +456,7 @@
     "impots": "2&nbsp;165 €",
     "revenuFiscalReference": "21&nbsp;000 €"
   },
-  "1582453447254+1569051442254": {
+  "1682453447254+1669051442254": {
     "declarant1": {
       "nom": "Beausoleil",
       "nomNaissance": "Beausoleil",
@@ -772,8 +473,10 @@
       "ligne1": "34 Rue du Petit Chenois",
       "ligne2": "25200 Montbéliard"
     },
-    "dateRecouvrement": "10/10/2015",
-    "dateEtablissement": "08/07/2015",
+    "anneeImpots": "2016",
+    "anneeRevenus": "2015",
+    "dateRecouvrement": "10/10/2016",
+    "dateEtablissement": "08/07/2016",
     "nombreParts": "2.00",
     "situationFamiliale": "Marié(e)s",
     "nombreDePersonneACharge": "2",
@@ -783,7 +486,7 @@
     "impots": "2&nbsp;165 €",
     "revenuFiscalReference": "26&nbsp;922 €"
   },
-  "1582453447331+1569051442331": {
+  "1682453447331+1669051442331": {
     "declarant1": {
       "nom": "Adamski",
       "nomNaissance": "Adamski",
@@ -800,8 +503,10 @@
       "ligne1": "15 Rue d’Auriol",
       "ligne2": "31400 Toulouse"
     },
-    "dateRecouvrement": "21/08/2015",
-    "dateEtablissement": "11/06/2015",
+    "anneeImpots": "2016",
+    "anneeRevenus": "2015",
+    "dateRecouvrement": "21/08/2016",
+    "dateEtablissement": "11/06/2016",
     "nombreParts": "3.00",
     "situationFamiliale": "Célibataire",
     "nombreDePersonneACharge": "4",
@@ -811,7 +516,7 @@
     "impots": "731 €",
     "revenuFiscalReference": "33&nbsp;775 €"
   },
-  "1582453447332+1569051442332": {
+  "1682453447332+1669051442332": {
     "declarant1": {
       "nom": "Vallée",
       "nomNaissance": "Vallée",
@@ -828,8 +533,10 @@
       "ligne1": "16 Rue de l'Europe",
       "ligne2": "31140 Aucamville"
     },
-    "dateRecouvrement": "21/08/2015",
-    "dateEtablissement": "11/06/2015",
+    "anneeImpots": "2016",
+    "anneeRevenus": "2015",
+    "dateRecouvrement": "21/08/2016",
+    "dateEtablissement": "11/06/2016",
     "nombreParts": "3.50",
     "situationFamiliale": "Marié(e)s",
     "nombreDePersonneACharge": "3",
@@ -839,7 +546,7 @@
     "impots": "1&nbsp;432 €",
     "revenuFiscalReference": "43&nbsp;296 €"
   },
-  "1582453447333+1569051442333": {
+  "1682453447333+1669051442333": {
     "declarant1": {
       "nom": "Lombardo",
       "nomNaissance": "Lombardo",
@@ -856,8 +563,10 @@
       "ligne1": "61 Boulevard des Pyrénées",
       "ligne2": "31370 Rieumes"
     },
-    "dateRecouvrement": "21/08/2015",
-    "dateEtablissement": "11/06/2015",
+    "anneeImpots": "2016",
+    "anneeRevenus": "2015",
+    "dateRecouvrement": "21/08/2016",
+    "dateEtablissement": "11/06/2016",
     "nombreParts": "4.00",
     "situationFamiliale": "Marié(e)s",
     "nombreDePersonneACharge": "4",
@@ -867,7 +576,7 @@
     "impots": "1&nbsp;132 €",
     "revenuFiscalReference": "38&nbsp;031 €"
   },
-  "1582453447334+1569051442334": {
+  "1682453447334+1669051442334": {
     "declarant1": {
       "nom": "Fiedler",
       "nomNaissance": "Fiedler",
@@ -884,8 +593,10 @@
       "ligne1": "15 Rue Spont",
       "ligne2": "31110 Bagnères-de-Luchon"
     },
-    "dateRecouvrement": "21/08/2015",
-    "dateEtablissement": "11/06/2015",
+    "anneeImpots": "2016",
+    "anneeRevenus": "2015",
+    "dateRecouvrement": "21/08/2016",
+    "dateEtablissement": "11/06/2016",
     "nombreParts": "4.00",
     "situationFamiliale": "Marié(e)s",
     "nombreDePersonneACharge": "4",
@@ -895,7 +606,7 @@
     "impots": "1&nbsp;432 €",
     "revenuFiscalReference": "48&nbsp;751 €"
   },
-  "1582453447621+1569051442621": {
+  "1682453447621+1669051442621": {
     "declarant1": {
       "nom": "Kalb",
       "nomNaissance": "Kalb",
@@ -912,8 +623,10 @@
       "ligne1": "4 Rue Camille Pissarro",
       "ligne2": "62000 Arras"
     },
-    "dateRecouvrement": "21/08/2015",
-    "dateEtablissement": "11/06/2015",
+    "anneeImpots": "2016",
+    "anneeRevenus": "2015",
+    "dateRecouvrement": "21/08/2016",
+    "dateEtablissement": "11/06/2016",
     "nombreParts": "1.00",
     "situationFamiliale": "Célibataire",
     "nombreDePersonneACharge": "1",
@@ -923,7 +636,7 @@
     "impots": "0 €",
     "revenuFiscalReference": "18&nbsp;876 €"
   },
-  "1582453447622+1569051442622": {
+  "1682453447622+1669051442622": {
     "declarant1": {
       "nom": "Jarir",
       "nomNaissance": "Jarir",
@@ -940,8 +653,10 @@
       "ligne1": "18 Rue Wallet",
       "ligne2": "62200 Boulogne-sur-Mer"
     },
-    "dateRecouvrement": "21/08/2015",
-    "dateEtablissement": "11/06/2015",
+    "anneeImpots": "2016",
+    "anneeRevenus": "2015",
+    "dateRecouvrement": "21/08/2016",
+    "dateEtablissement": "11/06/2016",
     "nombreParts": "1.00",
     "situationFamiliale": "Célibataire",
     "nombreDePersonneACharge": "1",
@@ -951,7 +666,7 @@
     "impots": "0 €",
     "revenuFiscalReference": "4&nbsp;394 €"
   },
-  "1582453447623+1569051442623": {
+  "1682453447623+1669051442623": {
     "declarant1": {
       "nom": "Panetier",
       "nomNaissance": "Panetier",
@@ -968,8 +683,10 @@
       "ligne1": "77B Rue Voltaire",
       "ligne2": "62100 Calais"
     },
-    "dateRecouvrement": "21/08/2015",
-    "dateEtablissement": "11/06/2015",
+    "anneeImpots": "2016",
+    "anneeRevenus": "2015",
+    "dateRecouvrement": "21/08/2016",
+    "dateEtablissement": "11/06/2016",
     "nombreParts": "2.50",
     "situationFamiliale": "Marié(e)s",
     "nombreDePersonneACharge": "1",
@@ -979,7 +696,7 @@
     "impots": "0 €",
     "revenuFiscalReference": "25&nbsp;258 €"
   },
-  "1582453447624+1569051442624": {
+  "1682453447624+1669051442624": {
     "declarant1": {
       "nom": "Cruz Baeza",
       "nomNaissance": "Cruz Baeza",
@@ -996,8 +713,10 @@
       "ligne1": "18 Rue du Général Potez",
       "ligne2": "62170 Montreuil"
     },
-    "dateRecouvrement": "21/08/2015",
-    "dateEtablissement": "11/06/2015",
+    "anneeImpots": "2016",
+    "anneeRevenus": "2015",
+    "dateRecouvrement": "21/08/2016",
+    "dateEtablissement": "11/06/2016",
     "nombreParts": "1.00",
     "situationFamiliale": "Célibataire",
     "nombreDePersonneACharge": "1",
@@ -1006,6 +725,336 @@
     "impotsNetAvantCorrections": "0 €",
     "impots": "0 €",
     "revenuFiscalReference": "20&nbsp;000 €"
+  },
+  "88+1688": {
+    "declarant1": {
+      "nom": "Durano",
+      "nomNaissance": "Durano",
+      "prenoms": "Emile",
+      "dob": "22/03/1985"
+    },
+    "declarant2": {
+      "nom": "Durano",
+      "nomNaissance": "Martin",
+      "prenoms": "Marianne",
+      "dob": "03/04/1986"
+    },
+    "adress": {
+      "ligne1": "14 rue du Ponant",
+      "ligne2": "88000 Epinal"
+    },
+    "anneeImpots": "2016",
+    "anneeRevenus": "2015",
+    "dateRecouvrement": "10/10/2016",
+    "dateEtablissement": "08/07/2016",
+    "nombreParts": "2.00",
+    "situationFamiliale": "Marié(e)s",
+    "nombreDePersonneACharge": "2",
+    "revenuBrutGlobal": "29&nbsp;880 €",
+    "revenuImposable": "29&nbsp;880 €",
+    "impotsNetAvantCorrections": "2&nbsp;165 €",
+    "impots": "2&nbsp;165 €",
+    "revenuFiscalReference": "29&nbsp;880 €"
+  },
+  "1682453447881+1669051442881": {
+    "declarant1": {
+      "nom": "Gareau",
+      "nomNaissance": "Gareau",
+      "prenoms": "Idris",
+      "dob": "1/04/1971"
+    },
+    "declarant2": {
+      "nom": "Hactel",
+      "nomNaissance": "Hactel",
+      "prenoms": "Yanis",
+      "dob": "4/02/1978"
+    },
+    "adress": {
+      "ligne1": "13 Rue des Chênes",
+      "ligne2": "68800 Vieux-Thann"
+    },
+    "anneeImpots": "2016",
+    "anneeRevenus": "2015",
+    "dateRecouvrement": "13/07/2016",
+    "dateEtablissement": "13/07/2016",
+    "nombreParts": "3",
+    "situationFamiliale": "Marié(e)s",
+    "nombreDePersonneACharge": "2",
+    "revenuBrutGlobal": "25&nbsp;256 €",
+    "revenuImposable": "25&nbsp;256 €",
+    "impotsNetAvantCorrections": "2&nbsp;165 €",
+    "impots": "2&nbsp;165 €",
+    "revenuFiscalReference": "25&nbsp;256 €"
+  },
+  "1682453447882+1669051442882": {
+    "declarant1": {
+      "nom": "Landry",
+      "nomNaissance": "Landry",
+      "prenoms": "Alphonse",
+      "dob": "06/05/1979"
+    },
+    "declarant2": {
+      "nom": "Landry",
+      "nomNaissance": "Corbin",
+      "prenoms": "Éloïse",
+      "dob": "03/06/1975"
+    },
+    "adress": {
+      "ligne1": "5 Rue Charles Derise",
+      "ligne2": "88500 Mirecourt"
+    },
+    "anneeImpots": "2016",
+    "anneeRevenus": "2015",
+    "dateRecouvrement": "13/07/2016",
+    "dateEtablissement": "13/07/2016",
+    "nombreParts": "2",
+    "situationFamiliale": "Marié(e)s",
+    "nombreDePersonneACharge": "1",
+    "revenuBrutGlobal": "32&nbsp;376 €",
+    "revenuImposable": "32&nbsp;376 €",
+    "impotsNetAvantCorrections": "2&nbsp;165 €",
+    "impots": "2&nbsp;165 €",
+    "revenuFiscalReference": "32&nbsp;376 €"
+  },
+  "1682453447883+1669051442883": {
+    "declarant1": {
+      "nom": "Moreau",
+      "nomNaissance": "Moreau",
+      "prenoms": "Denis",
+      "dob": "1/04/1971"
+    },
+    "declarant2": {
+      "nom": "Moreau",
+      "nomNaissance": "Guilmette",
+      "prenoms": "Sabine",
+      "dob": "19/11/1983"
+    },
+    "adress": {
+      "ligne1": "1 Rue de la Victoire",
+      "ligne2": "68700 Wattwiller"
+    },
+    "anneeImpots": "2016",
+    "anneeRevenus": "2015",
+    "dateRecouvrement": "13/07/2016",
+    "dateEtablissement": "13/07/2016",
+    "nombreParts": "3",
+    "situationFamiliale": "Marié(e)s",
+    "nombreDePersonneACharge": "3",
+    "revenuBrutGlobal": "29&nbsp;505 €",
+    "revenuImposable": "29&nbsp;505 €",
+    "impotsNetAvantCorrections": "2&nbsp;165 €",
+    "impots": "2&nbsp;165 €",
+    "revenuFiscalReference": "29&nbsp;505 €"
+  },
+  "1682453447884+1669051442884": {
+    "declarant1": {
+      "nom": "Fouquet",
+      "nomNaissance": "Fouquet",
+      "prenoms": "Soren",
+      "dob": "1/04/1978"
+    },
+    "declarant2": {
+      "nom": "Quessy",
+      "nomNaissance": "Quessy",
+      "prenoms": "Mireille",
+      "dob": "19/11/1982"
+    },
+    "adress": {
+      "ligne1": "1 Rue de la Gare",
+      "ligne2": "88310 Cornimont"
+    },
+    "anneeImpots": "2016",
+    "anneeRevenus": "2015",
+    "dateRecouvrement": "13/07/2016",
+    "dateEtablissement": "13/07/2016",
+    "nombreParts": "3",
+    "situationFamiliale": "Marié(e)s",
+    "nombreDePersonneACharge": "3",
+    "revenuBrutGlobal": "37&nbsp;825 €",
+    "revenuImposable": "37&nbsp;825 €",
+    "impotsNetAvantCorrections": "2&nbsp;665 €",
+    "impots": "2&nbsp;665 €",
+    "revenuFiscalReference": "37&nbsp;825 €"
+  },
+  "95+1695": {
+    "declarant1": {
+      "nom": "RAFU",
+      "nomNaissance": "RAFU",
+      "prenoms": "Caroline",
+      "dob": "06/05/1979"
+    },
+    "declarant2": {
+      "nom": "",
+      "nomNaissance": "",
+      "prenoms": "",
+      "dob": ""
+    },
+    "adress": {
+      "ligne1": "27 rue des Ecoles",
+      "ligne2": "95610 Eragny"
+    },
+    "anneeImpots": "2016",
+    "anneeRevenus": "2015",
+    "dateRecouvrement": "13/07/2016",
+    "dateEtablissement": "13/07/2016",
+    "nombreParts": "2",
+    "situationFamiliale": "Célibataire",
+    "nombreDePersonneACharge": "1",
+    "revenuBrutGlobal": "10&nbsp;250 €",
+    "revenuImposable": "10&nbsp;250 €",
+    "impotsNetAvantCorrections": "0 €",
+    "impots": "0 €",
+    "revenuFiscalReference": "10&nbsp;250 €"
+  },
+  "952+16952": {
+    "declarant1": {
+      "nom": "SAFO",
+      "nomNaissance": "SAFO",
+      "prenoms": "Jean-Pierre",
+      "dob": "06/05/1979"
+    },
+    "declarant2": {
+      "nom": "SAFO",
+      "nomNaissance": "Alloui",
+      "prenoms": "Christelle",
+      "dob": "03/06/1975"
+    },
+    "adress": {
+      "ligne1": "1 boulevard Jacques Tête",
+      "ligne2": "95300 Pontoise"
+    },
+    "anneeImpots": "2016",
+    "anneeRevenus": "2015",
+    "dateRecouvrement": "13/07/2016",
+    "dateEtablissement": "13/07/2016",
+    "nombreParts": "2",
+    "situationFamiliale": "Marié(e)s",
+    "nombreDePersonneACharge": "0",
+    "revenuBrutGlobal": "16&nbsp;550 €",
+    "revenuImposable": "16&nbsp;550 €",
+    "impotsNetAvantCorrections": "0 €",
+    "impots": "0 €",
+    "revenuFiscalReference": "16&nbsp;550 €"
+  },
+  "1682453447951+1669051442951": {
+    "declarant1": {
+      "nom": "Mailloux",
+      "nomNaissance": "Mailloux",
+      "prenoms": "Jay",
+      "dob": "14/02/1945"
+    },
+    "declarant2": {
+      "nom": "",
+      "nomNaissance": "",
+      "prenoms": "",
+      "dob": ""
+    },
+    "adress": {
+      "ligne1": "1 Rue des Frères Rousse",
+      "ligne2": "95780 La Roche-Guyon"
+    },
+    "anneeImpots": "2016",
+    "anneeRevenus": "2015",
+    "dateRecouvrement": "13/07/2016",
+    "dateEtablissement": "13/07/2016",
+    "nombreParts": "1",
+    "situationFamiliale": "Célibataire",
+    "nombreDePersonneACharge": "1",
+    "revenuBrutGlobal": "19&nbsp;875 €",
+    "revenuImposable": "19&nbsp;875 €",
+    "impotsNetAvantCorrections": "0 €",
+    "impots": "0 €",
+    "revenuFiscalReference": "19&nbsp;875 €"
+  },
+  "1682453447952+1669051442952": {
+    "declarant1": {
+      "nom": "Cruz",
+      "nomNaissance": "Cruz",
+      "prenoms": "Albert",
+      "dob": "06/05/1947"
+    },
+    "declarant2": {
+      "nom": "Cruz",
+      "nomNaissance": "Querry",
+      "prenoms": "Denise",
+      "dob": "03/06/1945"
+    },
+    "adress": {
+      "ligne1": "10 Cours du Puits",
+      "ligne2": "95690 Labbeville"
+    },
+    "anneeImpots": "2016",
+    "anneeRevenus": "2015",
+    "dateRecouvrement": "13/07/2016",
+    "dateEtablissement": "13/07/2016",
+    "nombreParts": "2",
+    "situationFamiliale": "Marié(e)s",
+    "nombreDePersonneACharge": "0",
+    "revenuBrutGlobal": "35&nbsp;509 €",
+    "revenuImposable": "35&nbsp;509 €",
+    "impotsNetAvantCorrections": "992 €",
+    "impots": "992 €",
+    "revenuFiscalReference": "35&nbsp;509 €"
+  },
+  "1682453447953+1669051442953": {
+    "declarant1": {
+      "nom": "Vela Cotto",
+      "nomNaissance": "Pabst",
+      "prenoms": "Swen",
+      "dob": "28/11/1990"
+    },
+    "declarant2": {
+      "nom": "Vela Cotto",
+      "nomNaissance": "Vela Cotto",
+      "prenoms": "Alegra",
+      "dob": "03/03/1988"
+    },
+    "adress": {
+      "ligne1": "14 Avenue du Dr Charles Fritz",
+      "ligne2": "95290 L'Isle-Adam"
+    },
+    "anneeImpots": "2016",
+    "anneeRevenus": "2015",
+    "dateRecouvrement": "18/09/2016",
+    "dateEtablissement": "11/06/2016",
+    "nombreParts": "4.00",
+    "situationFamiliale": "Marié(e)s",
+    "nombreDePersonneACharge": "4",
+    "revenuBrutGlobal": "38&nbsp;031 €",
+    "revenuImposable": "38&nbsp;031 €",
+    "impotsNetAvantCorrections": "0 €",
+    "impots": "0 €",
+    "revenuFiscalReference": "38&nbsp;031 €"
+  },
+  "1682453447954+1669051442954": {
+    "declarant1": {
+      "nom": "Loiseau",
+      "nomNaissance": "Loiseau",
+      "prenoms": "Marc",
+      "dob": "23/11/1979"
+    },
+    "declarant2": {
+      "nom": "Ijlal Shamon",
+      "nomNaissance": "Ijlal Shamon",
+      "prenoms": "Lucie",
+      "dob": "21/09/1977"
+    },
+    "adress": {
+      "ligne1": "7 Rue de la Pierre Miclare",
+      "ligne2": "95000 Cergy"
+    },
+    "anneeImpots": "2016",
+    "anneeRevenus": "2015",
+    "dateRecouvrement": "13/08/2016",
+    "dateEtablissement": "11/06/2016",
+    "nombreParts": "4.00",
+    "situationFamiliale": "Marié(e)s",
+    "nombreDePersonneACharge": "4",
+    "revenuBrutGlobal": "48&nbsp;751 €",
+    "revenuImposable": "48&nbsp;751 €",
+    "impotsNetAvantCorrections": "1&nbsp;123 €",
+    "impots": "1&nbsp;123 €",
+    "revenuFiscalReference": "48&nbsp;751 €"
   },
 
   "1000000000000+1000000000000": {
