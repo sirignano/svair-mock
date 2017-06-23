@@ -27,20 +27,27 @@ function deeperValue(object = {}, res = []) {
   return res;
 }
 
-module.exports = function(json) {
-  const result = [];
-
-  let current = [];
+function generateHeader(json) {
   let first = Object.keys(json)[0];
+  let header = ['id'];
+  return header.concat(deeperKey(json[first]));
+}
 
-  let header = ['id']
-  result.push(header.concat(deeperKey(json[first])))
-
-  delete json.first
+function generateData(json) {
+  let result = [];
   for (let id in json) {
-    let row = [id]
-    result.push(row.concat(deeperValue(json[id])))
+    let row = [id];
+    result.push(row.concat(deeperValue(json[id])));
   }
+  return result;
+}
+
+module.exports = function(json) {
+  let result = [];
+
+  result.push(generateHeader(json))
+  result = result.concat(generateData(json))
 
   return stringify(result, {delimiter: ';'})
+
 }
