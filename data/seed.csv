@@ -49,3 +49,4 @@ id;declarant1.nom;declarant1.nomNaissance;declarant1.prenoms;declarant1.dob;decl
 1000000000009+1000000000010;Holmes;Holmes;Sherlock;01/01/1970;Holmes;Holmes;Anne;01/01/1970;123 Rue Bidon;12345 Condat;2010;2009;21/08/2016;11/06/2016;2;Marié;2;20 000 €;20 000 €;0 €;0 €;30 000 €
 1000000000011+1000000000011;Marple;Marple;Jane;01/01/1970;;;;;123 Rue Bidon;12345 Condat;2010;2009;21/08/2017;11/06/2017;3;Divorcé;3;20 000 €;20 000 €;0 €;0 €;3 200 €
 1000000000011+1000000000012;Marple;Marple;Jane;01/01/1970;;;;;123 Rue Bidon;12345 Condat;2010;2009;21/08/2017;11/06/2017;2;Divorcé;2;20 000 €;20 000 €;0 €;0 €;2 500 €
+1000000000011+1000000000013;Mercier;Mercier;Eric;01/01/1970;;;;;123 Rue Bidon;12345 Condat;2010;2009;21/08/2017;11/06/2017;2;Divorcé;2;20 000 €;20 000 €;0 €;0 €;2 500 €
