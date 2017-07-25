@@ -7,6 +7,8 @@ const results = require('./data/results');
 const bodyParser = require('body-parser');
 const path = require('path')
 const Import = require('./data')
+const http = require('http')
+const throng = require('throng')
 
 app.engine('.hbs', exphbs({defaultLayout: 'single', extname: '.hbs'}));
 app.set('view engine', '.hbs');
@@ -19,7 +21,6 @@ app.get('/', function (req, res) {
 });
 
 app.post('/secavis/faces/commun/index.jsf', function (req, res) {
-  console.log(req.body)
   const numFiscal = req.body["j_id_7:spi"]
   const referenceAvis = req.body["j_id_7:num_facture"]
   const id = numFiscal + "+" + referenceAvis
@@ -43,6 +44,11 @@ app.use('/secavis', express.static(path.join(__dirname, 'public')));
 
 
 const PORT = process.env.PORT || 3000
-app.listen(PORT, function () {
-  console.log('Example app listening on port %s!', PORT);
-});
+let server
+
+throng({workers: 4}, function () {
+  server = http.createServer(app)
+  server.listen(PORT, function (err) {
+    console.log('SVAIR app listening on port %s!', PORT);
+  })
+})
