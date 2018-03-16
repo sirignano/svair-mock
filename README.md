@@ -24,4 +24,5 @@ http://localhost:3000/secavis
 ```
 
 ## Add some seed data (there is already some)
-In the directory data there is a file data.csv.example that gives the needed file skeleton, just fill it and save it as myData.csv in the same directory
+
+Simply add your data to the file [seed.csv](https://github.com/betagouv/svair-mock/blob/master/data/seed.csv).
