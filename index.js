@@ -3,7 +3,6 @@ const express = require('express');
 const morgan = require('morgan')
 const app = express();
 const exphbs = require('express-handlebars');
-const results = require('./data/results');
 const bodyParser = require('body-parser');
 const path = require('path')
 const Import = require('./data')
@@ -35,7 +34,7 @@ app.post('/secavis/faces/commun/index.jsf', function (req, res) {
         result.layout = false;
         res.render('svair', Object.assign(defaultData, result));
       } else {
-        res.render('missing', { layout: false });
+        res.redirect('/secavis');
       }
     })
 });
