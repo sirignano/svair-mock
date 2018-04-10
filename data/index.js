@@ -29,7 +29,7 @@ module.exports = class Import {
 
   csvPromises(csvs) {
     return csvs.map((csv) => {
-      return parse(csv, {delimiter: ';', columns: true}).then(this.generateJson)
+      return parse(csv, {delimiter: ',', columns: true}).then(this.generateJson)
     })
   }
 
