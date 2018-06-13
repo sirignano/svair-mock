@@ -34,7 +34,7 @@ app.post('/secavis/faces/commun/index.jsf', function (req, res) {
         result.layout = false;
         res.render('svair', Object.assign(defaultData, result));
       } else {
-        res.redirect('/secavis');
+        res.render('missing', { layout: false });
       }
     })
 });
